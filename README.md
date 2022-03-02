@@ -1,6 +1,8 @@
 # cats_demo_project
 
-A new Flutter project.
+Demo Project of simple StaggaredGridView cats images/gifs
+![DEMO GIF](https://user-images.githubusercontent.com/38894285/156299512-c2fe6099-5b6f-483e-918b-24e467484f17.gif)
+
 
 ## Getting Started
 
